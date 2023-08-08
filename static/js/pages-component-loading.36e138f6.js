@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-component-loading"],{"1bb9":function(e,n,t){"use strict";t.r(n);var a={gePage:t("ec77").default},l=t("f0c5"),o=Object(l["a"])({},(function(){var e=this.$createElement,n=this._self._c||e;return n("ge-page",{attrs:{loading:!0}})}),[],!1,null,null,null,!1,a,void 0);n["default"]=o.exports}}]);
